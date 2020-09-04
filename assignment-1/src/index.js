@@ -41,13 +41,13 @@ export function main() {
 
     let opt = -1
 
-    while(opt != 0) {
+
         rl.question('Pick an option: ', (option) => {
             opt = option;
             console.log('OPT: ', opt);
             rl.close();
         })
-    }
+
 }
 
 main()

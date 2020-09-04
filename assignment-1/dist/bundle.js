@@ -1,5 +1,14 @@
 "use strict";
 
+var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault");
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.main = main;
+
+var _readline = _interopRequireDefault(require("readline"));
+
 var carrinho = require('./fakeDb.json')["carrinho"];
 
 var descontoTodos = function descontoTodos() {};
@@ -20,7 +29,21 @@ descontoPorValorAcima //4
 ];
 
 function main() {
-  console.log('TEST: ', comandosLiterals);
+  var rl = _readline["default"].createInterface({
+    input: process.stdin,
+    output: process.stdout
+  });
+
+  rl.on("close", function () {
+    console.log("\nExiting application...");
+    process.exit(0);
+  });
+  var opt = -1;
+  rl.question('Pick an option: ', function (option) {
+    opt = option;
+    console.log('OPT: ', opt);
+    rl.close();
+  });
 }
 
 main();
