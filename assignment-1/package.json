@@ -6,6 +6,7 @@
   "scripts": {
     "babel": "babel src/index.js -o dist/bundle.js && cp src/fakeDb.json dist/fakeDb.json",
     "bundle": "node dist/bundle.js",
+    "dev": "babel-node src/index.js",
     "clean": "rm -f dist/*",
     "test": "mocha --require @babel/register test/unit/**/**/*.test.js"
   },

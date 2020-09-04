@@ -3,7 +3,7 @@ const should = require('chai').should();
 const sinon = require('sinon');
 
 let carrinho = require('../../src/fakeDb.json')["carrinho"];
-import { main } from '../../src/index';
+import { main, comandosLiterals } from '../../src/index';
 
 describe('Main unit tests', () => {
     let sandbox;
@@ -16,14 +16,9 @@ describe('Main unit tests', () => {
         sandbox.restore();
     })
 
-    // it('Should just run main at first', () => {
-    //     const spyMain = sandbox.spy(main);
-    //     spyMain()
-        
-    //     spyMain.callCount.should.be.eql(1)
-    // })
+    it('Should successfuly apply a discount to every item in carrinho', () => {
+        comandosLiterals[0](10);
 
-    // it('Should require user input', () => {
-
-    // })
+        carrinho[0].preco.should.be.eql(8.99);
+    })
 })
