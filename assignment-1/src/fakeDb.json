@@ -1,0 +1,24 @@
+{
+    "carrinho": [
+        {
+            "nome": "Mouse USB",
+            "preco": 9.99
+        },
+        {
+            "nome": "Teclado USB",
+            "preco": 30.00
+        },
+        {
+            "nome": "Teclado Mecânico",
+            "preco": 329.95
+        },
+        {
+            "nome": "Monitor 19\"",
+            "preco": 459.99
+        },
+        {
+            "nome": "Cadeira de escritório simples",
+            "preco": 1599.99
+        }
+    ]
+}
