@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import json
 
 def main():
-    with open('natural-results.json', 'r') as f:
+    with open('results/natural-results.json', 'r') as f:
         res = json.load(f)
     keywords = res["keywords"]
     pairs = [ { "text": k["text"], "relevance": k["relevance"] } for k in keywords][:20]
@@ -20,7 +20,7 @@ def main():
     plt.xlabel('Relevância')
     plt.title('Top 20 relevância de termos encontrados (utilizando Watson Natural Language Understanding)')
 
-    plt.savefig('natural-results.png')
+    plt.savefig('results/natural-results.png')
     #plt.show()
 
 if __name__ == "__main__":
