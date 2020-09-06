@@ -1,3 +1,91 @@
 - PROBLEMAS:
-	-- Falta de reuniões;
-	-- Falta de entrosamento;	
+	-- Falta de entrosamento;
+	-- Dificuldade em formar os grupos;
+	-- Controle dos membros do grupo;
+	-- Membros do grupo não fazem nada;
+	-- Dificuldade em organizar uma eventual apresentação do trabalho;
+	-- Dificuldade em ter afinidade com os membros do grupo;
+	-- Problemas com o comprometimento com os prazos;
+	-- Comumente, apenas um membro do grupo acaba fazendo o trabalho todo;
+	-- Irritante quando o trabalho em grupo é obrigatório;
+	-- Falta de seriedade e disponibilidade dos membros;
+	-- Dificuldade para chegar a um consenso de idéias;
+	-- Comumente, membros do grupo fazem seu trabalho de forma relaxada;
+	-- Dificuldade em ter boa distribuição das tarefas;
+	-- Membros com interesses diferentes;
+	-- Dificuldade em dar início ao trabalho;
+	-- Dificuldade em cumprir prazos;
+	-- Entrosamento e conhecimento dos membros do grupo;
+	-- Dividir trabalho e alocar responsabilidades;
+	-- Ajudar os professores a supervisionar melhor o andamento;
+	-- Dificuldade em organizar encontros, tanto virtuais quanto presenciais;
+	-- Trabalho dividido de forma não-igual;
+	-- Confiar em membros com o qual não se tem afinidade;
+	-- Receio de não poder contribuir muito com o trabalho;
+	-- Membros sem paciência para ajudar os outros;
+	-- Timidez para reuniões;
+	-- Grupo com muitos integrantes;
+	-- Membros em períodos e/ou cursos diferentes;
+	-- Balancear a vida acadêmica com a vida pessoal e/ou profissional;
+	-- Problemas em tirar dúvidas sobre o trabalho;
+	-- Não conhecer nenhum dos membros previamente quando o grupo é formado;
+	-- Não estar claro o que cada membro deve fazer;
+	-- Falta de auxílio aos grupos com mais dificuldade;
+	-- Falta de contato mais dinâmico com o professor;
+	-- Dificuldade em manter contato entre os membros do grupo;
+	-- Garantir que todos os membros participem do trabalho;
+	-- Votações entre os membros do grupo;
+	-- Deixar o trabalho para a última hora;
+
+- CATEGORIAS DE PROBLEMAS:
+	-- Interações entre membros de equipe;
+	-- Interações entre alunos de uma classe;
+	-- Interações entre grupos e o professor;
+	-- Conciliação da vida acadêmica dos alunos;
+
+- PROBLEMAS DIVIDIDOS EM SUAS CATEGORIAS:
+	-- Interações entre membros de equipe;
+		-- Falta de entrosamento;
+		-- Controle dos membros do grupo;
+		-- Membros do grupo não fazem nada;
+		-- Dificuldade em organizar uma eventual apresentação do trabalho;
+		-- Dificuldade em ter afinidade com os membros do grupo;
+		-- Problemas com o comprometimento com os prazos;
+		-- Comumente, apenas um membro do grupo acaba fazendo o trabalho todo;
+		-- Falta de seriedade e disponibilidade dos membros;
+		-- Dificuldade para chegar a um consenso de idéias;
+		-- Comumente, membros do grupo fazem seu trabalho de forma relaxada;
+		-- Dificuldade em ter boa distribuição das tarefas;
+		-- Membros com interesses diferentes;
+		-- Dificuldade em dar início ao trabalho;
+		-- Dificuldade em cumprir prazos;
+		-- Entrosamento e conhecimento dos membros do grupo;
+		-- Dividir trabalho e alocar responsabilidades;
+		-- Dificuldade em organizar encontros, tanto virtuais quanto presenciais;
+		-- Trabalho dividido de forma não-igual;
+		-- Confiar em membros com o qual não se tem afinidade;
+		-- Receio de não poder contribuir muito com o trabalho;
+		-- Membros sem paciência para ajudar os outros;
+		-- Timidez para reuniões;
+		-- Grupo com muitos integrantes;
+		-- Membros em períodos e/ou cursos diferentes;
+		-- Não conhecer nenhum dos membros previamente quando o grupo é formado;
+		-- Não estar claro o que cada membro deve fazer;
+		-- Dificuldade em manter contato entre os membros do grupo;
+		-- Garantir que todos os membros participem do trabalho;
+		-- Votações entre os membros do grupo;
+		-- Deixar o trabalho para a última hora;
+	
+	-- Interações entre alunos de uma classe;
+		-- Dificuldade em formar os grupos;
+		-- Irritante quando o trabalho em grupo é obrigatório;
+		
+	-- Interações entre grupos e o professor;
+		-- Ajudar os professores a supervisionar melhor o andamento;
+		-- Falta de auxílio aos grupos com mais dificuldade;
+		-- Falta de contato mais dinâmico com o professor;
+		-- Problemas em tirar dúvidas sobre o trabalho;
+	
+	-- Conciliação da vida acadêmica dos alunos;
+		-- Balancear a vida acadêmica com a vida pessoal e/ou profissional;
+		
