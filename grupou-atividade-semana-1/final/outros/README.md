@@ -11,7 +11,7 @@ source venv/bin/activate
 ```
 
 Instalar as dependências utilizando
-```bash
+```shell
 pip3 install -r requirements.txt
 ```
 
