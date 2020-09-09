@@ -6,12 +6,12 @@ python3 -m venv venv
 ```
 
 Ativar o venv executando
-```python
+```shell
 source venv/bin/activate
 ```
 
 Instalar as dependências utilizando
-```python
+```bash
 pip3 install -r requirements.txt
 ```
 
