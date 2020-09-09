@@ -1,4 +1,4 @@
-#Projeto Integrado - Plataforma Grupou
+# Projeto Integrado - Plataforma Grupou
 ## Atividade da semana 01
 
 Para visualizar apenas os diagramas, acesse a pasta diagramas_exportados.
