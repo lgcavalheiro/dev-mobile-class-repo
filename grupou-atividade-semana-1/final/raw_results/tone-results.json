@@ -1,0 +1,560 @@
+{
+    "document_tone": {
+        "tones": []
+    },
+    "sentences_tone": [
+        {
+            "sentence_id": 0,
+            "text": "aplicando o trabalho",
+            "tones": []
+        },
+        {
+            "sentence_id": 1,
+            "text": "tendo que fazer",
+            "tones": []
+        },
+        {
+            "sentence_id": 2,
+            "text": "para formar grupos",
+            "tones": []
+        },
+        {
+            "sentence_id": 3,
+            "text": "controle dos integrantes",
+            "tones": []
+        },
+        {
+            "sentence_id": 4,
+            "text": "um precisa fazer",
+            "tones": []
+        },
+        {
+            "sentence_id": 5,
+            "text": "não fazem nada",
+            "tones": []
+        },
+        {
+            "sentence_id": 6,
+            "text": "ou apenas esperam",
+            "tones": []
+        },
+        {
+            "sentence_id": 7,
+            "text": "um milagre acontecer",
+            "tones": []
+        },
+        {
+            "sentence_id": 8,
+            "text": "nem todos os",
+            "tones": []
+        },
+        {
+            "sentence_id": 9,
+            "text": "uma proposta melhor",
+            "tones": [
+                {
+                    "score": 0.991736,
+                    "tone_id": "analytical",
+                    "tone_name": "Analytical"
+                }
+            ]
+        },
+        {
+            "sentence_id": 10,
+            "text": "qual não há",
+            "tones": []
+        },
+        {
+            "sentence_id": 11,
+            "text": "organizar pontos chaves",
+            "tones": []
+        },
+        {
+            "sentence_id": 12,
+            "text": "organizar eventual apresentação",
+            "tones": []
+        },
+        {
+            "sentence_id": 13,
+            "text": "problema com quem",
+            "tones": [
+                {
+                    "score": 0.955445,
+                    "tone_id": "analytical",
+                    "tone_name": "Analytical"
+                }
+            ]
+        },
+        {
+            "sentence_id": 14,
+            "text": "até mesmo com",
+            "tones": []
+        },
+        {
+            "sentence_id": 15,
+            "text": "pessoas com graus",
+            "tones": []
+        },
+        {
+            "sentence_id": 16,
+            "text": "assim parecer desinteressado",
+            "tones": []
+        },
+        {
+            "sentence_id": 17,
+            "text": "conhecimento e prática",
+            "tones": []
+        },
+        {
+            "sentence_id": 18,
+            "text": "se os grupos",
+            "tones": []
+        },
+        {
+            "sentence_id": 19,
+            "text": "conseguindo produzir e",
+            "tones": []
+        },
+        {
+            "sentence_id": 20,
+            "text": "difícil ter aﬁnidade",
+            "tones": []
+        },
+        {
+            "sentence_id": 21,
+            "text": "ja que cada",
+            "tones": []
+        },
+        {
+            "sentence_id": 22,
+            "text": "tive em grupos",
+            "tones": []
+        },
+        {
+            "sentence_id": 23,
+            "text": "para o fato",
+            "tones": []
+        },
+        {
+            "sentence_id": 24,
+            "text": "erroneamente fazer os",
+            "tones": []
+        },
+        {
+            "sentence_id": 25,
+            "text": "um aluno que",
+            "tones": []
+        },
+        {
+            "sentence_id": 26,
+            "text": "um aluno que",
+            "tones": []
+        },
+        {
+            "sentence_id": 27,
+            "text": "com todos os",
+            "tones": []
+        },
+        {
+            "sentence_id": 28,
+            "text": "que vai contra",
+            "tones": []
+        },
+        {
+            "sentence_id": 29,
+            "text": "que podem ser",
+            "tones": []
+        },
+        {
+            "sentence_id": 30,
+            "text": "um grande problema",
+            "tones": [
+                {
+                    "score": 0.955445,
+                    "tone_id": "analytical",
+                    "tone_name": "Analytical"
+                }
+            ]
+        },
+        {
+            "sentence_id": 31,
+            "text": "lidar com falta",
+            "tones": []
+        },
+        {
+            "sentence_id": 32,
+            "text": "com todos os",
+            "tones": []
+        },
+        {
+            "sentence_id": 33,
+            "text": "compromentimento com prazos",
+            "tones": []
+        },
+        {
+            "sentence_id": 34,
+            "text": "algo muito importante",
+            "tones": []
+        },
+        {
+            "sentence_id": 35,
+            "text": "falo por mim",
+            "tones": []
+        },
+        {
+            "sentence_id": 36,
+            "text": "da manhã até",
+            "tones": []
+        },
+        {
+            "sentence_id": 37,
+            "text": "difícil para muitos",
+            "tones": []
+        },
+        {
+            "sentence_id": 38,
+            "text": "umas pessoas que",
+            "tones": []
+        },
+        {
+            "sentence_id": 39,
+            "text": "um problema comum",
+            "tones": [
+                {
+                    "score": 0.955445,
+                    "tone_id": "analytical",
+                    "tone_name": "Analytical"
+                }
+            ]
+        },
+        {
+            "sentence_id": 40,
+            "text": "todos se reunirem",
+            "tones": []
+        },
+        {
+            "sentence_id": 41,
+            "text": "no trabalho diﬁculdade",
+            "tones": []
+        },
+        {
+            "sentence_id": 42,
+            "text": "realmente conseguir deﬁnir",
+            "tones": []
+        },
+        {
+            "sentence_id": 43,
+            "text": "no atual momento",
+            "tones": []
+        },
+        {
+            "sentence_id": 44,
+            "text": "no geral tem",
+            "tones": []
+        },
+        {
+            "sentence_id": 45,
+            "text": "equipe caso eles",
+            "tones": []
+        },
+        {
+            "sentence_id": 46,
+            "text": "estejam entregando suas",
+            "tones": []
+        },
+        {
+            "sentence_id": 47,
+            "text": "grupo e convida-los",
+            "tones": []
+        },
+        {
+            "sentence_id": 48,
+            "text": "como o grupo",
+            "tones": []
+        },
+        {
+            "sentence_id": 49,
+            "text": "uma necessidade dos",
+            "tones": []
+        },
+        {
+            "sentence_id": 50,
+            "text": "num mesmo objetivo",
+            "tones": []
+        },
+        {
+            "sentence_id": 51,
+            "text": "um grupo e",
+            "tones": []
+        },
+        {
+            "sentence_id": 52,
+            "text": "todos devem participar",
+            "tones": []
+        },
+        {
+            "sentence_id": 53,
+            "text": "não vejo problema",
+            "tones": [
+                {
+                    "score": 0.955445,
+                    "tone_id": "analytical",
+                    "tone_name": "Analytical"
+                }
+            ]
+        },
+        {
+            "sentence_id": 54,
+            "text": "a única preocupação",
+            "tones": []
+        },
+        {
+            "sentence_id": 55,
+            "text": "com mais diﬁculdade",
+            "tones": []
+        },
+        {
+            "sentence_id": 56,
+            "text": "faço tudo sozinho",
+            "tones": []
+        },
+        {
+            "sentence_id": 57,
+            "text": "muito irritante quando",
+            "tones": []
+        },
+        {
+            "sentence_id": 58,
+            "text": "obrigatório ter grupo",
+            "tones": []
+        },
+        {
+            "sentence_id": 59,
+            "text": "fazendo com que",
+            "tones": []
+        },
+        {
+            "sentence_id": 60,
+            "text": "uma quanitdade grande",
+            "tones": []
+        },
+        {
+            "sentence_id": 61,
+            "text": "maioria das vezes",
+            "tones": []
+        },
+        {
+            "sentence_id": 62,
+            "text": "cada um tem",
+            "tones": []
+        },
+        {
+            "sentence_id": 63,
+            "text": "particular e ha",
+            "tones": [
+                {
+                    "score": 0.502268,
+                    "tone_id": "joy",
+                    "tone_name": "Joy"
+                },
+                {
+                    "score": 0.543112,
+                    "tone_id": "confident",
+                    "tone_name": "Confident"
+                }
+            ]
+        },
+        {
+            "sentence_id": 64,
+            "text": "falta seriedade disponibilidade",
+            "tones": []
+        },
+        {
+            "sentence_id": 65,
+            "text": "acho que o",
+            "tones": []
+        },
+        {
+            "sentence_id": 66,
+            "text": "acho que diﬁculta",
+            "tones": []
+        },
+        {
+            "sentence_id": 67,
+            "text": "um pouco o",
+            "tones": []
+        },
+        {
+            "sentence_id": 68,
+            "text": "um trabalho em grupo",
+            "tones": []
+        },
+        {
+            "sentence_id": 69,
+            "text": "são desde a diﬁculdade",
+            "tones": []
+        },
+        {
+            "sentence_id": 70,
+            "text": "quando consegue entra em",
+            "tones": []
+        },
+        {
+            "sentence_id": 71,
+            "text": "mesmo que sejam tarefas",
+            "tones": []
+        },
+        {
+            "sentence_id": 72,
+            "text": "o debate venha para",
+            "tones": []
+        },
+        {
+            "sentence_id": 73,
+            "text": "qual o melhor caminho",
+            "tones": []
+        },
+        {
+            "sentence_id": 74,
+            "text": "diﬁculdade para chegar a",
+            "tones": []
+        },
+        {
+            "sentence_id": 75,
+            "text": "um consenso das ideias",
+            "tones": []
+        },
+        {
+            "sentence_id": 76,
+            "text": "auxiliar em pontos deﬁcientes",
+            "tones": []
+        },
+        {
+            "sentence_id": 77,
+            "text": "uma votação para tirar",
+            "tones": []
+        },
+        {
+            "sentence_id": 78,
+            "text": "não ta fazendo nada",
+            "tones": []
+        },
+        {
+            "sentence_id": 79,
+            "text": "necessário ter boa distribuição",
+            "tones": []
+        },
+        {
+            "sentence_id": 80,
+            "text": "não pesquisa com aﬁnco",
+            "tones": []
+        },
+        {
+            "sentence_id": 81,
+            "text": "copiando e colando diretamente",
+            "tones": []
+        },
+        {
+            "sentence_id": 82,
+            "text": "pessoas com interesses diferentes",
+            "tones": []
+        },
+        {
+            "sentence_id": 83,
+            "text": "realiza sua parte falta",
+            "tones": []
+        },
+        {
+            "sentence_id": 84,
+            "text": "torcemos que os integrantes",
+            "tones": []
+        },
+        {
+            "sentence_id": 85,
+            "text": "cumprirem os prazos diﬁculdade",
+            "tones": []
+        },
+        {
+            "sentence_id": 86,
+            "text": "não entrega sua parte",
+            "tones": []
+        },
+        {
+            "sentence_id": 87,
+            "text": "indo bem ou não",
+            "tones": []
+        },
+        {
+            "sentence_id": 88,
+            "text": "no entendimento e aceitação",
+            "tones": []
+        },
+        {
+            "sentence_id": 89,
+            "text": "dar inicio ao trabalho",
+            "tones": []
+        },
+        {
+            "sentence_id": 90,
+            "text": "não só na faculdade",
+            "tones": []
+        },
+        {
+            "sentence_id": 91,
+            "text": "o aluno possui família",
+            "tones": [
+                {
+                    "score": 0.570492,
+                    "tone_id": "joy",
+                    "tone_name": "Joy"
+                }
+            ]
+        },
+        {
+            "sentence_id": 92,
+            "text": "hora e feito correndo",
+            "tones": []
+        },
+        {
+            "sentence_id": 93,
+            "text": "maior problema que vejo",
+            "tones": [
+                {
+                    "score": 0.920855,
+                    "tone_id": "analytical",
+                    "tone_name": "Analytical"
+                }
+            ]
+        },
+        {
+            "sentence_id": 94,
+            "text": "isso não é errado",
+            "tones": []
+        },
+        {
+            "sentence_id": 95,
+            "text": "e quem tiver diﬁculdade",
+            "tones": []
+        },
+        {
+            "sentence_id": 96,
+            "text": "o trabalho para a",
+            "tones": []
+        },
+        {
+            "sentence_id": 97,
+            "text": "comprometidos com o trabalho",
+            "tones": []
+        },
+        {
+            "sentence_id": 98,
+            "text": "complicado trabalhos em grupo",
+            "tones": []
+        },
+        {
+            "sentence_id": 99,
+            "text": "a outro nas suas",
+            "tones": []
+        }
+    ]
+}

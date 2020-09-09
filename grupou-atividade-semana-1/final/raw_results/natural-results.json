@@ -1,0 +1,367 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5385,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.903107,
+      "label": "positive"
+    }
+  },
+  "language": "pt",
+  "keywords": [
+    {
+      "text": "grande problema",
+      "relevance": 0.631056,
+      "count": 2
+    },
+    {
+      "text": "vida acadêmica",
+      "relevance": 0.610857,
+      "count": 1
+    },
+    {
+      "text": "consenso das ideias",
+      "relevance": 0.587068,
+      "count": 1
+    },
+    {
+      "text": "geral maior problema",
+      "relevance": 0.566409,
+      "count": 1
+    },
+    {
+      "text": "problema comum",
+      "relevance": 0.556079,
+      "count": 1
+    },
+    {
+      "text": "mundo proﬁssional",
+      "relevance": 0.545529,
+      "count": 1
+    },
+    {
+      "text": "trabalho sozinho",
+      "relevance": 0.544981,
+      "count": 1
+    },
+    {
+      "text": "prazos diﬁculdade",
+      "relevance": 0.542906,
+      "count": 1
+    },
+    {
+      "text": "grupos",
+      "relevance": 0.538866,
+      "count": 9
+    },
+    {
+      "text": "desenvolvimento pessoal",
+      "relevance": 0.534023,
+      "count": 1
+    },
+    {
+      "text": "sozinho pq",
+      "relevance": 0.533437,
+      "count": 1
+    },
+    {
+      "text": "encontro virtual",
+      "relevance": 0.533178,
+      "count": 1
+    },
+    {
+      "text": "desenvolvimento da aplicação",
+      "relevance": 0.529689,
+      "count": 1
+    },
+    {
+      "text": "mesmo objetivo",
+      "relevance": 0.529555,
+      "count": 1
+    },
+    {
+      "text": "conhecimentos necessário",
+      "relevance": 0.525847,
+      "count": 1
+    },
+    {
+      "text": "conta das diferenças críticas",
+      "relevance": 0.524329,
+      "count": 1
+    },
+    {
+      "text": "proposta melhor",
+      "relevance": 0.517081,
+      "count": 1
+    },
+    {
+      "text": "quanitdade grande",
+      "relevance": 0.516946,
+      "count": 1
+    },
+    {
+      "text": "trabalho",
+      "relevance": 0.513601,
+      "count": 11
+    },
+    {
+      "text": "grupo ideal",
+      "relevance": 0.513032,
+      "count": 1
+    },
+    {
+      "text": "pessoas no",
+      "relevance": 0.511793,
+      "count": 1
+    },
+    {
+      "text": "fazer",
+      "relevance": 0.510938,
+      "count": 1
+    },
+    {
+      "text": "grupo montado",
+      "relevance": 0.510673,
+      "count": 1
+    },
+    {
+      "text": "única preocupação",
+      "relevance": 0.509836,
+      "count": 1
+    },
+    {
+      "text": "pontos chaves",
+      "relevance": 0.509836,
+      "count": 1
+    },
+    {
+      "text": "atual momento",
+      "relevance": 0.509836,
+      "count": 1
+    },
+    {
+      "text": "na faculdade",
+      "relevance": 0.509836,
+      "count": 1
+    },
+    {
+      "text": "aﬁnidade no",
+      "relevance": 0.506207,
+      "count": 1
+    },
+    {
+      "text": "responsabilidades no",
+      "relevance": 0.505294,
+      "count": 1
+    },
+    {
+      "text": "boa distribuição",
+      "relevance": 0.504863,
+      "count": 1
+    },
+    {
+      "text": "grupo problema",
+      "relevance": 0.503985,
+      "count": 1
+    },
+    {
+      "text": "reuniões virtuais",
+      "relevance": 0.503789,
+      "count": 1
+    },
+    {
+      "text": "maioria das vezes",
+      "relevance": 0.503298,
+      "count": 1
+    },
+    {
+      "text": "resto da turma",
+      "relevance": 0.503298,
+      "count": 1
+    },
+    {
+      "text": "assunto junto",
+      "relevance": 0.503261,
+      "count": 1
+    },
+    {
+      "text": "trabalhos academicos",
+      "relevance": 0.502594,
+      "count": 1
+    },
+    {
+      "text": "interesses diferentes",
+      "relevance": 0.502091,
+      "count": 1
+    },
+    {
+      "text": "parte falta",
+      "relevance": 0.501797,
+      "count": 1
+    },
+    {
+      "text": "colaborativa junto",
+      "relevance": 0.500399,
+      "count": 1
+    },
+    {
+      "text": "maior diﬁculdade",
+      "relevance": 0.499941,
+      "count": 1
+    },
+    {
+      "text": "pontos deﬁcientes",
+      "relevance": 0.499661,
+      "count": 1
+    },
+    {
+      "text": "aluno",
+      "relevance": 0.49931,
+      "count": 4
+    },
+    {
+      "text": "mundo",
+      "relevance": 0.498524,
+      "count": 1
+    },
+    {
+      "text": "prazos das entregas",
+      "relevance": 0.498523,
+      "count": 1
+    },
+    {
+      "text": "trabalhos devido",
+      "relevance": 0.498475,
+      "count": 1
+    },
+    {
+      "text": "contato",
+      "relevance": 0.498431,
+      "count": 3
+    },
+    {
+      "text": "cursos diferentes",
+      "relevance": 0.498427,
+      "count": 1
+    },
+    {
+      "text": "trabalho falta",
+      "relevance": 0.496482,
+      "count": 1
+    },
+    {
+      "text": "conhecimento",
+      "relevance": 0.496241,
+      "count": 1
+    },
+    {
+      "text": "pessoas",
+      "relevance": 0.496089,
+      "count": 5
+    }
+  ],
+  "entities": [
+    {
+      "type": "Number",
+      "text": "um",
+      "relevance": 0.9999,
+      "count": 19
+    },
+    {
+      "type": "Organization",
+      "text": "aﬁnco",
+      "relevance": 0.885079,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "pontos chaves",
+      "relevance": 0.739655,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "perﬁl",
+      "relevance": 0.507511,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "auxiliar",
+      "relevance": 0.460179,
+      "count": 2
+    },
+    {
+      "type": "Time",
+      "text": "manhã",
+      "relevance": 0.256626,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "professor",
+      "relevance": 0.204644,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "ﬁnal eu faço tudo sozinho pq todo mundo some",
+      "relevance": 0.018825,
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Aluno",
+      "relevance": 0.979265,
+      "dbpedia_resource": "http://pt.dbpedia.org/resource/Aluno"
+    },
+    {
+      "text": "Conhecimento",
+      "relevance": 0.96836,
+      "dbpedia_resource": "http://pt.dbpedia.org/resource/Conhecimento"
+    },
+    {
+      "text": "Amizade",
+      "relevance": 0.871478,
+      "dbpedia_resource": "http://pt.dbpedia.org/resource/Amizade"
+    },
+    {
+      "text": "Sistema de alta disponibilidade",
+      "relevance": 0.8269,
+      "dbpedia_resource": "http://pt.dbpedia.org/resource/Sistema_de_alta_disponibilidade"
+    },
+    {
+      "text": "Virtual",
+      "relevance": 0.792711,
+      "dbpedia_resource": "http://pt.dbpedia.org/resource/Virtual"
+    },
+    {
+      "text": "Grupo",
+      "relevance": 0.77142,
+      "dbpedia_resource": "http://pt.dbpedia.org/resource/Grupo"
+    },
+    {
+      "text": "Solução",
+      "relevance": 0.768151,
+      "dbpedia_resource": "http://pt.dbpedia.org/resource/Solução"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.820228,
+      "label": "/education/homework and study tips"
+    },
+    {
+      "score": 0.756716,
+      "label": "/family and parenting/children"
+    },
+    {
+      "score": 0.731717,
+      "label": "/law, govt and politics"
+    }
+  ]
+}
