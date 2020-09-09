@@ -1,7 +1,7 @@
-#Configurando ambiente Python para execução dos scripts
+# Configurando ambiente Python para execução dos scripts
 
 Criar um virtualenv Python executando
-```python
+```shell
 python3 -m venv venv
 ```
 
